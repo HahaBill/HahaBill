@@ -6,7 +6,7 @@
 
 - 🎁 Started recently contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
    - Closed -> [Docs] Remove the xgboost file from navigation #5986
-   - In progress -> [Integration]: TikTok API Integration #5467
+   - In progress -> [Integration] TripAdvisor Integration #5369
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

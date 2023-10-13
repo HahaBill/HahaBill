@@ -1,10 +1,10 @@
 - 👋 Hi, my name is Ton Hoang Nguyen, however you can call me Bill :)
 
 
-- 🧑‍💻 At the moment, working as a Software Engineer at Qafka Robotics
+- 🧑‍💻 Working as a Software Engineer at Qafka Robotics
 
 
-- 🎁 Started recently contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
+- 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
    - Closed -> [Docs] Remove the xgboost file from navigation #5986
    - In progress -> [Integration] TripAdvisor Integration #5369
 

@@ -6,7 +6,8 @@
 
 - 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
    - Closed -> [Docs] Remove the xgboost file from navigation #5986
-   - In progress -> [Integration] TripAdvisor Integration #5369
+   - PR Approved and Merged -> [Integration] TripAdvisor Integration #5369
+   - In progress -> [New Integration]: Spacy NLP Framework #3182
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Ton Hoang Nguyen, however you can call me Bill :) </h1>
+<h1 align="center">Hi 👋, I am Hoang, however you can call me Bill :) </h1>
 
 - 🧑‍💻 Working as a Software Engineer at Qafka Robotics
 

@@ -1,8 +1,6 @@
-- 👋 Hi, my name is Ton Hoang Nguyen, however you can call me Bill :)
-
+<h1 align="center">Hi 👋, my name is Ton Hoang Nguyen, however you can call me Bill :) </h1>
 
 - 🧑‍💻 Working as a Software Engineer at Qafka Robotics
-
 
 - 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
    - Closed -> [Docs] Remove the xgboost file from navigation #5986

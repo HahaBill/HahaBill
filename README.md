@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Hoang, however you can call me Bill :) </h1>
 
-- 🧑‍💻 Working as a Software Engineer at Qafka Robotics
+- 🧑‍💻 Co-Founder and Software Engineer at Qafka Robotics
 
 - 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
    - Closed -> [Docs] Remove the xgboost file from navigation #5986

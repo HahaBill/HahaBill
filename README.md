@@ -4,7 +4,7 @@
 
 - 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
    - Closed -> [Docs] Remove the xgboost file from navigation #5986
-   - PR Approved and Merged -> [Integration] TripAdvisor Integration #5369
+   - Closed -> [Integration] TripAdvisor Integration #5369
    - In progress -> [New Integration]: Spacy NLP Framework #3182
 
 <!---

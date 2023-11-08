@@ -6,7 +6,7 @@
    - Closed -> [Docs] Remove the xgboost file from navigation #5986
    - Closed -> [Integration] TripAdvisor Integration #5369
    - Closed -> [App Integration] Eventbrite Integration #8021
-   - In progress -> [ML Integration]: Spacy NLP Framework #3182
+   - Merged with linguistic features, still working in progress -> [ML Integration]: Spacy NLP Framework #3182
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

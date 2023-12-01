@@ -2,6 +2,8 @@
 
 - 🧑‍💻 Founding member and Software Engineer at Qafka Robotics
 
+- Personal website: https://ton-hoang-nguyen.gitbook.io/ton-hoang-nguyen-bill-portfolio/
+
 - 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
    - Closed -> [Docs] Remove the xgboost file from navigation #5986
    - Closed -> [Integration] TripAdvisor Integration #5369

@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I am Hoang, however you can call me Bill :) </h1>
 
-- 🧑‍💻 Founding member and Software Engineer at Qafka Robotics
+- 🤖 Co-founder and Software Engineer at Qafka Robotics
 
-- Personal website: https://ton-hoang-nguyen.gitbook.io/ton-hoang-nguyen-bill-portfolio/
+- 👨‍💻 Personal website: https://ton-hoang-nguyen.gitbook.io/ton-hoang-nguyen-bill-portfolio/
 
-- 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb):
-   - Closed -> [Docs] Remove the xgboost file from navigation #5986
-   - Closed -> [Integration] TripAdvisor Integration #5369
-   - Closed -> [App Integration] Eventbrite Integration #8021
-   - Merged with linguistic features, still working in progress -> [ML Integration]: Spacy NLP Framework #3182
+- 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb) and a winner in Hacktoberfest 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

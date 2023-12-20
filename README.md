@@ -6,7 +6,7 @@
 
 - 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb)
 
-- 🏆 Winner in Hacktoberfest 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session
+- 🏆 Winner in Hacktoberfest x MindsDB 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

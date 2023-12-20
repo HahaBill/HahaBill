@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I am Hoang, however you can call me Bill :) </h1>ddsds
+<h1 align="center">Hi 👋, I am Hoang, however you can call me Bill :) </h1>
 
-- 🧑‍💻 Founding member and Software Engineer at Qafka Rosdsbotics
+- 🧑‍💻 Founding member and Software Engineer at Qafka Robotics
 
 - Personal website: https://ton-hoang-nguyen.gitbook.io/ton-hoang-nguyen-bill-portfolio/
 

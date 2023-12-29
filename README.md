@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Hoang, however you can call me Bill :) </h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I am Hoang, however you can call me Bill :) </h1>
 
 - 🤖 Co-founder and Software Engineer at Qafka Robotics
 

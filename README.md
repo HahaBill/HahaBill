@@ -4,8 +4,6 @@
 
 - 👨‍💻 Personal website: https://ton-hoang-nguyen.gitbook.io/ton-hoang-nguyen-bill-portfolio/
 
-- 🎁 Contributing to [MindsDB](https://github.com/mindsdb/mindsdb)
-
 - 🏆 Winner of Hacktoberfest x MindsDB 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session
 
 <!---

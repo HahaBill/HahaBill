@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I am Hoang, however you can call me Bill :) </h1>
 
-- 🤖 Software Engineer at Qafka Robotics
-
 - 👨‍💻 Personal website: https://ton-hoang-nguyen.gitbook.io/ton-hoang-nguyen-bill-portfolio/
 
 - 🏆 Winner of Hacktoberfest x MindsDB 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session

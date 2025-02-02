@@ -3,7 +3,7 @@
 - 👨‍💻 Personal website: https://ton-hoang-nguyen.gitbook.io/ton-hoang-nguyen-bill-portfolio/
 - 📎 LinkedIn: https://www.linkedin.com/in/ton-hoang-n-11a2a0105/
 - 📒 Google Summer of Code 2024 @Joplin: https://summerofcode.withgoogle.com/programs/2024/projects/Ble8LKDb
-- 🏆 Winner of Hacktoberfest x MindsDB 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session
+- 🏆 Winner of Hacktoberfest x MindsDB (YC20) 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

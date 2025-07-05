@@ -4,8 +4,11 @@
 - 📎 LinkedIn: https://www.linkedin.com/in/ton-hoang-n-11a2a0105/
 - 👾 Google Summer of Code 2025 @Google Deepmind
 - 📒 Google Summer of Code 2024 @Joplin: https://summerofcode.withgoogle.com/programs/2024/projects/Ble8LKDb
-- 🏆 Winner of Hacktoberfest x MindsDB (YC20) 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session
 - 🤖 Kaggle profile: https://www.kaggle.com/hahabill
+- 🏆 :
+  - Winner of Hacktoberfest x MindsDB (YC20) 2023 - Razer blade 16 and $500 Scholarship for online courses with guided session
+  - Le Robot WorldWide Hackathon Winner - 28th out of +3000 participants from 44 countries: https://huggingface.co/LeRobot-worldwide-hackathon
+
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

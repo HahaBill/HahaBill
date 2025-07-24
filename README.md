@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I am Hoang, however you can call me Bill :) </h1>
 
-Hi! I love building software and AI :)
+I <3 building software and AI
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

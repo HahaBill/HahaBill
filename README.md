@@ -2,12 +2,6 @@
 
 I <3 building software and AI. Feel free to reach out to me if you want to have a coffee chat.
 
-Google Summer of Code for Google DeepMind (2025) and Joplin (2024)
-
-Twitter: @HaHaBillTon
-
-LinkedIn: https://www.linkedin.com/in/ton-hoang-n-11a2a0105/
-
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

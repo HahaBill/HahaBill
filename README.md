@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I am Hoang, however you can call me Bill ૮( ˶ᵔ ᵕ ᵔ˶ )っ </h1>
+<h1 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I am Hoang, however you can call me Bill ૮( ˶ᵔ ᵕ ᵔ˶ )っ </h1>
 
-I <3 building software and AI. Feel free to reach out to me if you want to have a coffee chat.
+<img width="997" height="201" alt="hilma-af-klint" src="https://github.com/user-attachments/assets/56782720-2268-4109-b827-bc480408482b" />
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

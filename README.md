@@ -8,6 +8,7 @@ You can reach me directly at tn2621@columbia.edu
 
 - Google Summer of Code at Joplin and Google DeepMind 🧑‍💻
 - 7x Hackathon Winner
+- YC Startup School Paris
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

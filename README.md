@@ -6,6 +6,9 @@ I'm a Columbia University student. I love building software and AI :)
 
 You can reach me directly at tn2621@columbia.edu
 
+- Google Summer of Code at Joplin and Google DeepMind 🧑‍💻
+- 7x Hackathon Winner
+
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

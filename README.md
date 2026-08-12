@@ -6,7 +6,7 @@ I'm a Columbia University student. I love building software and AI :)
 
 You can reach me directly at tn2621@columbia.edu
 
-- Google Summer of Code at Joplin and Google DeepMind 🧑‍💻
+- Google Summer of Code Contributor and Mentor at Joplin and Google DeepMind 🧑‍💻 
 - 7x Hackathon Winner
 - YC Startup School Paris
 

@@ -2,7 +2,7 @@
 
 <img width="997" height="201" alt="hilma-af-klint" src="https://github.com/user-attachments/assets/56782720-2268-4109-b827-bc480408482b" />
 
-I'm a Columbia University student. I love building software and AI :)
+I'm an incoming Columbia University student. I love building software and AI :)
 
 You can reach me directly at tn2621@columbia.edu
 

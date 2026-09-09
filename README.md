@@ -9,6 +9,7 @@ You can reach me directly at tn2621@columbia.edu or bill.nguyentonhoang@gmail.co
 - Google Summer of Code Contributor and Mentor at Joplin and Google DeepMind 🧑‍💻 
 - 10x Hackathon Winner
 - YC Startup School Paris
+- Winner of Grok Bot Student Build Challenge by SpaceXAI
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

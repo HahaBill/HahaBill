@@ -10,6 +10,7 @@ You can reach me directly at tn2621@columbia.edu or bill.nguyentonhoang@gmail.co
 - 10x Hackathon Prizes
 - YC Startup School Paris
 - Winner of Grok Bot Student Build Challenge by SpaceXAI
+- MongoDB x Cerebral Valley Honorable Mention 
 
 <!---
 HahaBill/HahaBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

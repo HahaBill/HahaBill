@@ -7,7 +7,7 @@ I'm an incoming Columbia University student. I love building software and AI :)
 You can reach me directly at tn2621@columbia.edu or bill.nguyentonhoang@gmail.com
 
 - Google Summer of Code Contributor and Mentor at Joplin and Google DeepMind 🧑‍💻 
-- 10x Hackathon Prizes
+- 10x Hackathon Wins
 - YC Startup School Paris
 - Winner of Grok Bot Student Build Challenge by SpaceXAI
 - MongoDB x Cerebral Valley Honorable Mention 
